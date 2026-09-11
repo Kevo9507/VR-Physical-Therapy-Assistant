@@ -33,4 +33,9 @@ git clone https://github.com/TU_USUARIO/VR-Physical-Therapy-Assistant.git
 ```
 
 Abrir en Unity Hub (6000.0.34f1+), conectar el Quest 3 vía Quest Link o hacer build directo al dispositivo.
-o
+## Proyecto completo
+
+El repositorio incluye el código fuente completo. Los assets pesados de audio y entorno 3D (Sketchfab), por límites de tamaño de GitHub, están disponibles en:
+
+📦 https://drive.google.com/file/d/1FygtKoeRGfYo8SwWfxxgO_g0ewxaFlgq/view?usp=sharing
+
